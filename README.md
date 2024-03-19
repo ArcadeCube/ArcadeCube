@@ -10,7 +10,7 @@ We're passionate about game development and creating immersive experiences for p
 
 ### How to Reach Us
 If you have any questions, feedback, or collaboration inquiries, don't hesitate to reach out:
-- 📱 **Discord:** DM Bear#1234
+- 📱 **Discord:** DM Bear or Zabrid or Jeelzzz for developent or Ollie for Textures & Models
 - 📧 **Email:** dev.arcadecube@gmail.com
 
 ### Our Repositories
